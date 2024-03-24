@@ -23,4 +23,4 @@ function salaryCalculator(basicSalary) {
     }
 }
     
-salaryCalculator(500000)
+console(salaryCalculator(500000))
